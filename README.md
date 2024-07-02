@@ -1,1 +1,1 @@
-A simple Blog site 
+A simple Blog site Using Django
